@@ -1,4 +1,4 @@
-name: Test & deploy Project
+name: Issues
 on: issues
 jobs:
     test:
